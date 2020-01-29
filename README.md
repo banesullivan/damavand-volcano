@@ -10,8 +10,16 @@
 Simply install PyVista (see [installation](https://docs.pyvista.org/getting-started/installation.html) for tips):
 
 ```bash
-pip install -U pyvista
+pip install -U pyvista panel
 ```
+
+or 
+
+```bash
+conda install -c conda-forge pyvista panel
+```
+
+The `panel` installation is optional. `panel` enables embeddable renderings within the notebook (it is an experimental feature).
 
 ## How it looks
 
