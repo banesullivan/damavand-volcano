@@ -2,6 +2,24 @@
 
 [PyVista](https://www.pyvista.org) is leveraged to quickly visualize 3D models of Damavand Volcano, Alborz, Iran.
 
+
+**[Interact with the notebook here](https://nbviewer.jupyter.org/github/banesullivan/damavand-volcano/blob/master/Damavand_Volcano.ipynb)**
+
+## Installation
+
+Simply install PyVista (see [installation](https://docs.pyvista.org/getting-started/installation.html) for tips):
+
+```bash
+pip install -U pyvista
+```
+
+## How it looks
+
+![image](./volcano.png)
+
+
+## Credit
+
 This is an adaption of [Alexey Pechnikov](https://orcid.org/0000-0001-9626-8615) and [A.V.Durandin](https://orcid.org/0000-0001-6468-9757)'s [ParaView-MoshaFault](https://github.com/mobigroup/ParaView-MoshaFault)
 
 See LinkedIn posts for more details:
@@ -13,15 +31,3 @@ See LinkedIn posts for more details:
 - [North Iran, Mosha fault](https://www.linkedin.com/posts/activity-6609681862937853952-2BPG/)
 
 - [North Iran](https://www.linkedin.com/posts/activity-6609486793676996608-ZF-J/)
-
-## Installation
-
-Simply install PyVista (see [installation](https://docs.pyvista.org/getting-started/installation.html) for tips):
-
-```bash
-pip install -U pyvista
-```
-
-# How it looks
-
-![image](./volcano.png)
