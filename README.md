@@ -3,7 +3,11 @@
 [PyVista](https://www.pyvista.org) is leveraged to quickly visualize 3D models of Damavand Volcano, Alborz, Iran.
 
 
-**[Interact with the notebook here](https://nbviewer.jupyter.org/github/banesullivan/damavand-volcano/blob/master/Damavand_Volcano.ipynb)**
+**---> [Interact with the notebook here](https://nbviewer.jupyter.org/github/banesullivan/damavand-volcano/blob/master/Damavand_Volcano.ipynb)<---**
+
+And you'll be able to do this:
+
+![gif](interaction.gif)
 
 ## Installation
 
